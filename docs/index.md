@@ -58,35 +58,8 @@ Nedenfor er eksempler på hvordan du kan jobbe med variabler
 (set: $tekst to it + " mer") // Slå sammen strenger
 ```
 
-## Uttrykk og Operatorer
-
-### Aritmetiske Operatorer
-```
-+    // Addisjon
--    // Subtraksjon
-*    // Multiplikasjon
-/    // Divisjon
-%    // Modulo (rest)
-```
-
-### Sammenligningsoperatorer
-```
-is    // Er lik
->     // Større enn
-<     // Mindre enn
->=    // Større enn eller lik
-<=    // Mindre enn eller lik
-is not // Ikke lik
-```
-
-### Logiske Operatorer
-```
-and   // Logisk OG
-or    // Logisk ELLER
-not   // Logisk IKKE
-```
-
 ## Tekstformatering
+
 Du kan formatere teksten din ved hjelp av enkelte tegn, listen nedenfor viser noen eksempler.
 
 ```
@@ -120,6 +93,9 @@ Du kan formatere teksten din ved hjelp av enkelte tegn, listen nedenfor viser no
 ```
 
 ### Interaktive Betingelser
+
+Eksempelet nedenfor vises kun hvis variabelen $var er 1.
+
 ```
 (link: "Klikk meg")[(if: $var is 1)[Resultat 1](else:)[Resultat 2]]
 ```
