@@ -69,6 +69,30 @@ Du kan formatere teksten din ved hjelp av enkelte tegn, listen nedenfor viser no
 **Fet tekst**
 ```
 
+## Bilder
+
+Du kan legge inn bilder og andre elementer ved å skrive html koden rett i Passagedn din.
+
+!!! info
+  
+  Bildet må ligge tilgjengelig på nett for at Twine skal finne det.
+
+### Eksempel
+
+Koden nedenfor legger inn et bilde fra unsplash.com
+
+```html
+<img src="https://images.unsplash.com/photo-1544716278-e513176f20b5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D width=100%>
+```
+
+!!! Tips
+
+  Ved å legge til `width="100%"` i img taggen din tilpasses bildet til bredden på siden.
+
+## Video
+
+Du kan legge inn videoer fra youtube (eller tilsvarende sider) ved å kopiere embed koden fra youtube.
+
 ## Logikk
 
 ### If-Setninger
