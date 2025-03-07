@@ -74,7 +74,7 @@ Du kan formatere teksten din ved hjelp av enkelte tegn, listen nedenfor viser no
 Du kan legge inn bilder og andre elementer ved å skrive html koden rett i Passagedn din.
 
 !!! info
-  Bildet må ligge tilgjengelig på nett for at Twine skal finne det.
+   Bildet må ligge tilgjengelig på nett for at Twine skal finne det.
 
 ### Eksempel
 
@@ -85,7 +85,7 @@ Koden nedenfor legger inn et bilde fra unsplash.com
 ```
 
 !!! Tips
-  Ved å legge til `width="100%"` i img taggen din tilpasses bildet til bredden på siden.
+    Ved å legge til `width="100%"` i img taggen din tilpasses bildet til bredden på siden.
 
 ## Video
 
