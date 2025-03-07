@@ -101,7 +101,7 @@ Du kan legge inn informasjon som viser på alle sidene, dette gjør du ved å le
 - startup : Passager med denne taggen kjøres når du starter historien din, de kjøres altså bare en gang.
 
 !!! Tip
-  Disse taggene **må** skrives med små bokstaver for at de skal virke.
+    Disse taggene **må** skrives med små bokstaver for at de skal virke.
 
 ## Logikk
 
