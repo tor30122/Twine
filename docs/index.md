@@ -91,6 +91,17 @@ Koden nedenfor legger inn et bilde fra unsplash.com
 
 Du kan legge inn videoer fra youtube (eller tilsvarende sider) ved å kopiere embed koden fra youtube.
 
+## Header, Footer og Startup
+
+Du kan legge inn informasjon som viser på alle sidene, dette gjør du ved å legge til en tag, de vanligste er:
+
+- header : Passager med denne taggen viser på toppen av alle sider
+- footer : Passager med denne taggen viser dederst på alle sider
+- startup : Passager med denne taggen kjøres når du starter historien din, de kjøres altså bare en gang.
+
+!!! Tip
+  Disse taggene **må** skrives med små bokstaver for at de skal virke.
+
 ## Logikk
 
 ### If-Setninger
