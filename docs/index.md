@@ -74,7 +74,8 @@ Du kan formatere teksten din ved hjelp av enkelte tegn, listen nedenfor viser no
 Du kan legge inn bilder og andre elementer ved å skrive html koden rett i Passagedn din.
 
 !!! info
-   Bildet må ligge tilgjengelig på nett for at Twine skal finne det.
+
+    Bildet må ligge tilgjengelig på nett for at Twine skal finne det.
 
 ### Eksempel
 
